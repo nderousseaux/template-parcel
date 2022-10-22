@@ -1,4 +1,6 @@
-# Installation
+# {{cookiecutter.project_name}}
+
+## Installation
 ``` 
 npm install
 npm run start
